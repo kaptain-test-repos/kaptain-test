@@ -1,0 +1,13 @@
+test-docker-dockerfile
+test-docker-retag
+test-eks-management
+test-kube-app-docker
+test-kube-app-retag
+test-kube-bundle-helm
+test-kube-bundle-resources
+test-kube-manifests-only
+test-layer-build
+test-layerset-build
+test-quality-only
+test-quality-versioning
+test-spec-check
