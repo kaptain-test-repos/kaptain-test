@@ -6,6 +6,7 @@ test-docker-build-retag
 test-kubernetes-app-docker-dockerfile
 test-kubernetes-app-docker-retag
 test-kubernetes-app-manifests-only
+test-kubernetes-bundle-docker-retag
 test-kubernetes-bundle-resources
 test-kubernetes-bundle-vendor-helm-rendered
 test-layer-and-layerset-build
